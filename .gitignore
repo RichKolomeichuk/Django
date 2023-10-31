@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-Scripts
+
 # C extensions
 *.so
 
@@ -125,14 +125,12 @@ venv.bak/
 
 # mkdocs documentation
 /site
-data/
 
 # mypy
 .mypy_cache/
 .dmypy.json
 dmypy.json
-pipfile.lock
-pipfile
+
 # Pyre type checker
 .pyre/
 
